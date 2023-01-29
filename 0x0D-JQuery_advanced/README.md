@@ -1,1 +1,1 @@
-0x0D. jQuery advanced
+0x0D-JQuery_advanced
