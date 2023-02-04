@@ -1,0 +1,56 @@
+.btn-primary {
+  color: #FFFFFF !important;
+  background-color: #E0003C !important;
+  border-color: #E0003C !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  color: #FFFFFF !important;
+  background-color: #BC1340 !important;
+  border-color: #BC1340 !important;
+}
+  
+.btn-outline-primary {
+  color: #E0003C !important;
+  border-color: #E0003C !important;
+}
+
+.btn-outline-primary:hover {
+  color: #FFFFFF !important;
+  background-color: #E0003C !important;
+  border-color: #E0003C !important;
+}
+  
+a.text-dark:hover, a.text-dark:focus {
+  color: #E0003C !important;
+  text-transform: none;
+}
+  
+.card, .card-container, .card-footer {
+  border: 1px solid #E0003C;
+  border-radius: 1rem !important;
+  -webkit-border-radius: 1rem !important;
+  -moz-border-radius: 1rem !important;
+  -ms-border-radius: 1rem !important;
+  -o-border-radius: 1rem !important;
+}
+
+.card-header:first-child {
+  border-radius: calc(1rem - 1px) calc(1rem - 1px) 0 0;
+}
+  
+.border-bottom {
+  border-bottom: 1px solid #E0003C !important;
+}
+
+.card-header {
+  background-color: #E0003C !important;
+  color: #FFFFFF !important;
+  border-radius: 1rem 1rem 0 0 !important;
+}
+
+.text-muted {
+  color: #8C8C8C !important;
+}
